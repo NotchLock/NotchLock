@@ -5,7 +5,7 @@
 <h1 align="center">NotchLock</h1>
 
 <p align="center">
-Your study plan, timer, music and calendar, living in your MacBook's notch.<br>
+Your study plan, timer, music and calendar, living in your Mac's notch.<br>
 Hover over the notch (or press ⌥⌘N) and it drops down. Move away and it tucks back in.
 </p>
 
@@ -67,7 +67,11 @@ Most of NotchLock is free, for as long as you like. Pro adds the study tools. Ev
 | Distraction blocking and Do Not Disturb | | ✓ |
 | Reminder and calendar quick add shortcuts | | ✓ |
 
-**NotchLock Pro is US$12 a year.** One key works on 2 Macs. Get it at [notchlock.com](https://notchlock.com), then paste the key into Settings → About (or on the welcome screen). To move your key to another Mac, uninstall NotchLock from Settings → Advanced and the key is freed automatically.
+**NotchLock Pro is a one-time payment of US$12.99.** Pay once and keep it, including future updates to version 1. Get it at [notchlock.com](https://notchlock.com), then paste the key into Settings → About (or on the welcome screen).
+
+**Moving to a new Mac?** Press **Deactivate** in Settings → About on the old Mac (or uninstall NotchLock from Settings → Advanced, which frees the key automatically), then activate the key on the new one.
+
+<sub>A key can be active on up to 2 Macs at a time, for personal use.</sub>
 
 ---
 
@@ -139,7 +143,6 @@ The timer runs along the bottom of the open notch.
 - **Timer:** tap a preset or type a custom time in hours and minutes. You can change the presets in Settings → Timer.
 - **Pomodoro:** 25 minutes focus, 5 minute break, and a 15 minute long break every 4 rounds. You can change all of these, and turn on *Start the next round automatically*. The notch shows which round you're up to, like "Focus 2/4".
 - **Stopwatch:** counts up.
-- **Count down to the end of this block:** one tap sets a timer that ends exactly when your current study block does.
 
 **Full-screen timer.** Click the hourglass on the timer bar for a big timer with a progress ring that fills the whole screen. Turn on *Open full screen when a timer starts* to always get it. Press Esc to leave.
 
