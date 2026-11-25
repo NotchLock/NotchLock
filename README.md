@@ -54,7 +54,7 @@ It has no Dock icon. You'll find it in the menu bar, and in the notch itself. Th
 
 ## Free and Pro
 
-Most of NotchLock is free, for as long as you like. Pro adds the study tools. Every new install gets a **14-day free trial of Pro**, with no card needed.
+Most of NotchLock is free, for as long as you like. Pro adds the study tools. Every new install gets a **7-day free trial of Pro**, with no card needed.
 
 | | Free | Pro |
 |---|:---:|:---:|
