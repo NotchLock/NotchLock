@@ -5,7 +5,7 @@
 <h1 align="center">NotchLock</h1>
 
 <p align="center">
-Your study plan, timer, music and calendar, living in your Mac's notch.<br>
+Your study plan, timer, music and calendar, all in your Mac's notch.<br>
 Hover over the notch (or press ⌥⌘N) and it drops down. Move away and it tucks back in.
 </p>
 
