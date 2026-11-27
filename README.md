@@ -5,12 +5,12 @@
 <h1 align="center">NotchLock</h1>
 
 <p align="center">
-Study tools, timers, calendar and music control all in your Mac's notch.<br>
+Your study plan, timer, music and calendar, all in your Mac's notch.<br>
 Hover over the notch (or press ⌥⌘N) and it drops down. Move away and it tucks back in.
 </p>
 
 <p align="center">
-  <a href="https://github.com/NotchLock/NotchLock/releases/latest/download/NotchLock.zip"><b>Download NotchLock</b></a>
+  <a href="https://github.com/NotchLock/NotchLock/releases/latest/download/NotchLock.dmg"><b>Download NotchLock</b></a>
   &nbsp;·&nbsp;
   <a href="https://notchlock.com">Website</a>
   &nbsp;·&nbsp;
@@ -44,9 +44,9 @@ Hover over the notch (or press ⌥⌘N) and it drops down. Move away and it tuck
 
 ## Install
 
-1. [Download NotchLock.zip](https://github.com/NotchLock/NotchLock/releases/latest/download/NotchLock.zip) and open it.
-2. Drag **NotchLock** into your **Applications** folder and open it.
-3. A welcome window walks you through the permissions. Every step is optional, and you can come back to it any time from Settings → About.
+1. [Download NotchLock.dmg](https://github.com/NotchLock/NotchLock/releases/latest/download/NotchLock.dmg) and open it.
+2. Drag **NotchLock** onto the **Applications** folder in the window that opens, then open it from Applications.
+3. The Welcome screen opens, then a one-page setup for the basics, your keyboard shortcuts and permissions. Every step is optional, and you can change any of it later in Settings.
 
 NotchLock needs **macOS 14 (Sonoma) or later**. It's made for MacBooks with a notch, but works on any Mac: on screens without one (an older MacBook or an external monitor) it draws a notch at the top of the screen.
 
